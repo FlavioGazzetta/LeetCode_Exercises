@@ -1,6 +1,3 @@
-#include <iostream>
-#include <string>
-
 class Solution {
 public:
     int reverse(int x) {
