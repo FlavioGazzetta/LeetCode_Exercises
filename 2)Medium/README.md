@@ -1,1 +1,1 @@
-Medium Ecercises: 
+Medium Exercises: 
