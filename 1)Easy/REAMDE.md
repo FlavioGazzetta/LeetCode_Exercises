@@ -1,1 +1,1 @@
-Easy challenges:
+Easy Exercises:
