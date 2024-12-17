@@ -25,7 +25,6 @@ public:
                     sum += 1;
 
                 }
-                std::cout<<i;
             
             }
             if(s[i] == 'V'){
