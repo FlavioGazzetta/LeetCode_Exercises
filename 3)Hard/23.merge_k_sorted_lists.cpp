@@ -59,7 +59,7 @@ std::vector<int> list_to_vec(ListNode* l1) {
             }
             */
 
-           //the above for loop would be implemented in the case of merging k unsorted lists
+           //the above for loop would be implemented in the case of merging k unsorted lists (which is not necessary for this specific exercise)
 
             vlists.push_back(temp);
 
