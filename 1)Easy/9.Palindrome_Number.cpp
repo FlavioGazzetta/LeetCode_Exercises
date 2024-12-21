@@ -39,7 +39,7 @@ public:
             x /= 10;
         }
 
-        // Now check if the original half matches the reversed half
+        // check if the original half matches the reversed half
         // For odd-length numbers, we ignore the middle digit by dividing reversedHalf by 10
         return x == reversedHalf || x == reversedHalf / 10;
     }
